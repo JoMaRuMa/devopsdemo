@@ -4,7 +4,7 @@ public with sharing class DevDemo {
 
     public static void test() {
         //do nothing
-        String s = 'test';
+        String s = 'tests';
     }
 
 }
