@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlugin xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <description>Answer the basic questions the user might have</description>
+    <developerName>Demo_topic</developerName>
+    <genAiFunctions>
+        <functionName>get_cases_devops_179Dz0000004G2w</functionName>
+    </genAiFunctions>
+    <genAiPluginInstructions>
+        <description>Never use the words never or always</description>
+        <developerName>instruction_0_1762953027209</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_0_1762953027209</masterLabel>
+    </genAiPluginInstructions>
+    <language>en_US</language>
+    <masterLabel>Demo topic</masterLabel>
+    <pluginType>Topic</pluginType>
+    <scope>Your job is to answer basic questions the user might have</scope>
+</GenAiPlugin>
